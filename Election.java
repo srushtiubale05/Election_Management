@@ -1,8 +1,4 @@
-/*Batch:B3
- * UCE2023551:Snehal Patil
- * UCE2023554:Aishwarya Pawar
- * UCE2023566:Sanika Tavate
- * UCE2023568:Srushti Ubale
+/*
  * 
  *                                                     Election Management System
  * The Election Management System provides options for updating leader details, deleting leaders, adding new leaders, displaying the list of leaders,
