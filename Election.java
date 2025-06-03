@@ -1,17 +1,3 @@
-/*
- * 
- *                                                     Election Management System
- * The Election Management System provides options for updating leader details, deleting leaders, adding new leaders, displaying the list of leaders,
- *  managing voter data (including adding new voters, updating voter details, and viewing voter information), managing the trash 
- *  (emptying the trash and retrieving deleted items), casting votes, and displaying election results.
- *    
- * DATA STRUCTURES USED:
- * 1]HASH MAP
- * 2]BINARY SEARCH TREE
- * 3]STACK
- * 4]LINKED LIST
- */
-
 package scorner;
 
 import javax.swing.*;
@@ -777,3 +763,12 @@ public class FrameDemo extends JFrame implements ActionListener {
         });
     }
 }
+Election.java
+Displaying Election.java.
+Assignment 9 (Open ended assignment-Mini project)
+prakash Date
+•
+Nov 8, 2024
+100 points
+Create a small application using appropriate data structures showcasing proficiency in problem definition, requirement gathering, modular solution design with distinct separation of abstract data types and their utilization, crafting clear function prototypes, and effectively distributing tasks among functions.
+Class comments
