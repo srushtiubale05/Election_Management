@@ -9,8 +9,7 @@ A desktop-based Java application that simulates the election process with secure
 - ✅ Voter authentication using unique voter ID
 - 🧾 Secure and one-time vote casting mechanism
 - 🛠 Admin panel for:
-  - Registering candidates
-  - Starting/ending elections
+  - Registering candidates/Leaders
   - Viewing results
 - 📊 Real-time vote tallying using data structures
 - 🖥️ Java Swing-based user interface
