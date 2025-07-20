@@ -14,7 +14,6 @@ A desktop-based Java application that simulates the election process with secure
   - Viewing results
 - 📊 Real-time vote tallying using data structures
 - 🖥️ Java Swing-based user interface
-- 📦 Persistent storage (if applicable)
 
 ---
 
